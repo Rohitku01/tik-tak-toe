@@ -4,7 +4,7 @@ using namespace std;
 char board[9] = {' ',' ',' ',' ',' ',' ',' ',' ',' '};
 int n;
 string s1,s2;
-
+//
 void print()
 {
     for(int i=0; i<9; i++)
