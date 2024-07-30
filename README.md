@@ -22,7 +22,7 @@ Player Input: Captures player input and updates the board.
 
 Loops
 
-Game Loop: Uses a while loop to keep the game running until a player wins or the board is full.
+Game Loop: Uses a for loop to keep the game running until a player wins or the board is full.
 
 Turn Loop: Uses a for loop to iterate through the possible moves
 
