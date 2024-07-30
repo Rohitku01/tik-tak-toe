@@ -20,11 +20,11 @@ Display Board: Uses char to represent X, O, and empty spaces on the game board.
 
 Player Input: Captures player input and updates the board.
 
+Uses a function to iterate through the possible moves.
+
 Loops
 
 Game Loop: Uses a for loop to keep the game running until a player wins or the board is full.
-
-Turn Loop: Uses a for loop to iterate through the possible moves
 
 Technologies
 
